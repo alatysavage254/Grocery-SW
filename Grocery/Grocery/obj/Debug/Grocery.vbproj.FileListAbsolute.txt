@@ -1,0 +1,15 @@
+c:\users\toory\documents\visual studio 2012\Projects\Grocery\Grocery\bin\Debug\Grocery.exe.config
+c:\users\toory\documents\visual studio 2012\Projects\Grocery\Grocery\bin\Debug\Grocery.exe
+c:\users\toory\documents\visual studio 2012\Projects\Grocery\Grocery\bin\Debug\Grocery.pdb
+c:\users\toory\documents\visual studio 2012\Projects\Grocery\Grocery\bin\Debug\Grocery.xml
+c:\users\toory\documents\visual studio 2012\Projects\Grocery\Grocery\bin\Debug\Guna.UI.dll
+c:\users\toory\documents\visual studio 2012\Projects\Grocery\Grocery\obj\Debug\Grocery.Billing.resources
+c:\users\toory\documents\visual studio 2012\Projects\Grocery\Grocery\obj\Debug\Grocery.Items.resources
+c:\users\toory\documents\visual studio 2012\Projects\Grocery\Grocery\obj\Debug\Grocery.Login.resources
+c:\users\toory\documents\visual studio 2012\Projects\Grocery\Grocery\obj\Debug\Grocery.Splash.resources
+c:\users\toory\documents\visual studio 2012\Projects\Grocery\Grocery\obj\Debug\Grocery.Resources.resources
+c:\users\toory\documents\visual studio 2012\Projects\Grocery\Grocery\obj\Debug\Grocery.vbproj.GenerateResource.Cache
+c:\users\toory\documents\visual studio 2012\Projects\Grocery\Grocery\obj\Debug\Grocery.exe
+c:\users\toory\documents\visual studio 2012\Projects\Grocery\Grocery\obj\Debug\Grocery.xml
+c:\users\toory\documents\visual studio 2012\Projects\Grocery\Grocery\obj\Debug\Grocery.pdb
+C:\Users\toory\Documents\Visual Studio 2012\Projects\Grocery\Grocery\obj\Debug\Grocery.vbprojResolveAssemblyReference.cache

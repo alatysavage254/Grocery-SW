@@ -1,0 +1,15 @@
+c:\users\toory\documents\visual studio 2012\Projects\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+c:\users\toory\documents\visual studio 2012\Projects\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+c:\users\toory\documents\visual studio 2012\Projects\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+c:\users\toory\documents\visual studio 2012\Projects\StudentInfoSystem\bin\Debug\StudentInfoSystem.xml
+c:\users\toory\documents\visual studio 2012\Projects\StudentInfoSystem\obj\Debug\StudentInfoSystem.Form1.resources
+c:\users\toory\documents\visual studio 2012\Projects\StudentInfoSystem\obj\Debug\StudentInfoSystem.Resources.resources
+c:\users\toory\documents\visual studio 2012\Projects\StudentInfoSystem\obj\Debug\StudentInfoSystem.vbproj.GenerateResource.Cache
+c:\users\toory\documents\visual studio 2012\Projects\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+c:\users\toory\documents\visual studio 2012\Projects\StudentInfoSystem\obj\Debug\StudentInfoSystem.xml
+c:\users\toory\documents\visual studio 2012\Projects\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\toory\Documents\Visual Studio 2012\Projects\StudentInfoSystem\bin\Debug\student_data.accdb
+C:\Users\toory\Documents\Visual Studio 2012\Projects\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.manifest
+C:\Users\toory\Documents\Visual Studio 2012\Projects\StudentInfoSystem\bin\Debug\StudentInfoSystem.application
+C:\Users\toory\Documents\Visual Studio 2012\Projects\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe.manifest
+C:\Users\toory\Documents\Visual Studio 2012\Projects\StudentInfoSystem\obj\Debug\StudentInfoSystem.application

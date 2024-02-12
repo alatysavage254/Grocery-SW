@@ -1,0 +1,9 @@
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.Resources.resources
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.vbproj.GenerateResource.Cache
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.xml
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.xml
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb

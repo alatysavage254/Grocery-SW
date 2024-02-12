@@ -1,0 +1,9 @@
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe.config
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.Resources.resources
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.vbproj.GenerateResource.Cache
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.pdb
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.xml
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.exe
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.xml
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.pdb

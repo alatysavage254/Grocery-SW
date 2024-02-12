@@ -1,0 +1,10 @@
+c:\users\toory\documents\visual studio 2012\Projects\WindowsApplication14\bin\Debug\WindowsApplication14.exe.config
+c:\users\toory\documents\visual studio 2012\Projects\WindowsApplication14\obj\Debug\WindowsApplication14.Form1.resources
+c:\users\toory\documents\visual studio 2012\Projects\WindowsApplication14\obj\Debug\WindowsApplication14.Resources.resources
+c:\users\toory\documents\visual studio 2012\Projects\WindowsApplication14\obj\Debug\WindowsApplication14.vbproj.GenerateResource.Cache
+c:\users\toory\documents\visual studio 2012\Projects\WindowsApplication14\bin\Debug\WindowsApplication14.exe
+c:\users\toory\documents\visual studio 2012\Projects\WindowsApplication14\bin\Debug\WindowsApplication14.pdb
+c:\users\toory\documents\visual studio 2012\Projects\WindowsApplication14\bin\Debug\WindowsApplication14.xml
+c:\users\toory\documents\visual studio 2012\Projects\WindowsApplication14\obj\Debug\WindowsApplication14.exe
+c:\users\toory\documents\visual studio 2012\Projects\WindowsApplication14\obj\Debug\WindowsApplication14.xml
+c:\users\toory\documents\visual studio 2012\Projects\WindowsApplication14\obj\Debug\WindowsApplication14.pdb

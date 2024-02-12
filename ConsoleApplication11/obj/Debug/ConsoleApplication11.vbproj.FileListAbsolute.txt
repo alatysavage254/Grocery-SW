@@ -1,0 +1,9 @@
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe.config
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication11\bin\Debug\ConsoleApplication11.pdb
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication11\bin\Debug\ConsoleApplication11.xml
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication11\obj\Debug\ConsoleApplication11.Resources.resources
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication11\obj\Debug\ConsoleApplication11.vbproj.GenerateResource.Cache
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication11\obj\Debug\ConsoleApplication11.exe
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication11\obj\Debug\ConsoleApplication11.xml
+c:\users\toory\documents\visual studio 2012\Projects\ConsoleApplication11\obj\Debug\ConsoleApplication11.pdb

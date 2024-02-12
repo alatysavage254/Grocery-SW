@@ -1,0 +1,10 @@
+c:\users\toory\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+c:\users\toory\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+c:\users\toory\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+c:\users\toory\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+c:\users\toory\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+c:\users\toory\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+c:\users\toory\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+c:\users\toory\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+c:\users\toory\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+c:\users\toory\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
